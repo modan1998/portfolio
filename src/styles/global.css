@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+body {
+  font-family: "IBM Plex Mono", "PingFang SC", "Hiragino Sans GB", "Noto Sans SC",
+    "Microsoft YaHei", sans-serif;
+}
